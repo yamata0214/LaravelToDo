@@ -1,0 +1,35 @@
+body {font-size:16pt; color:#999; }
+h1 { font-size:50pt; text-align:center; color:#f6f6f6;
+margin-top:10px; }
+.center{
+text-align:center;
+}
+.center-left{
+max-width: 400px;
+margin: 0 auto;
+text-align: center;
+}
+.right{
+text-align:right;
+}
+.registration{
+margin-right:30px;
+text-decoration:none;
+}
+.width30{
+width:30%;
+}
+ul { font-size:12pt; }
+hr { margin: 25px 100px; border-top: 1px dashed #ddd; }
+.menutitle {font-size:14pt; font-weight:bold; margin: 0px; }
+.content {margin:10px;  border:double 4px #ccc; margin:10px; padding:10px;
+background-color:#fafafa; }
+.footer { text-align:right; font-size:10pt; margin:10px;
+border-bottom:solid 1px #ccc; color:#ccc; }
+.msg_title { margin:10px 20px; color:#f00;
+font-size:16pt; font-weight:bold; text-align:center;}
+.msg_content {margin:10px 20px; color:#f00;
+font-size:12pt;}
+.ul-align-center{display: flex;
+align-items: center;
+flex-direction: column;}
